@@ -13,6 +13,9 @@ As younger individuals are commonly excluded from studies focused on neurodegene
 **Publication:** 
 ## Details related to access to the data
 The dataset can be accessed at: osf.io/znt9d 
+
+Only projects approved by a duly constituted Research Ethics Board may use this dataset for their studies.
+
 Please cite this dataset: Lam, J., Rodriguez-Cruces, R., Arafat, T., Royer, J., Chen, J., Dascal, A., Sahlas, E., Pana, R., Hopewell, R., Hsiao, C. H.-H., Massarweh, G., Soucy, J.-P., Villeneuve, S., Caciagli, L., Koepp, M., Bernasconi, A., Bernasconi, N., & Bernhardt, B. (2025). An open dataset of cerebral tau deposition in young healthy adults based on [18F]MK6240 positron emission tomography. bioRxiv, 2025-06. https://doi.org/10.1101/2025.06.13.655622
 
 **Experiment DOI:** 
